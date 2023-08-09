@@ -5,6 +5,8 @@ algo_5_20_5_5.py is for pure algorithm setting with No. of stages = 5, No. of st
 
 smart_6_96_8_8.py is for smart grid setting with No. of stages = 6, No. of states = 144, No. of actions of microgrid1 = 12, No. of actions of microgrid2 = 12.
 
+equilibrium_deviation_grid.py gives values for deviation policies from equilibrium policy
+
 
 ## Acknowledgements
  
