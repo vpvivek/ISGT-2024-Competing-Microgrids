@@ -9,7 +9,7 @@ import os
 import time
 import matplotlib.pyplot as plt
 from lp_solve import *
-file_number = 242
+file_number = 1
 starttime = time.time()
 
 #np.random.seed(100)
@@ -367,7 +367,7 @@ horizons = smartGridHorizons     #horizons 0,1,2, .. ,horizons ,( horizons+1 sta
 states = len(completeStateSet)
 actions = len(completeActionSet1)
 discount = 1
-max_iterations = 200000# 100000
+max_iterations = 300000 # 100000
 
 
 #Preparing Prob Matrix
