@@ -20,7 +20,7 @@ plt.rcParams["font.family"] = "Times New Roman"
 
 
 
-file_numbers = [243,223,213]
+file_numbers = [1,2,3]
 gridsizesarray = ["small","medium","large"]
 max_iterations = 300000# 100000
 lg = []
