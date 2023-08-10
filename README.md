@@ -14,6 +14,7 @@ equilibrium_deviation_grid.py gives values for deviation policies from the equil
 ## Dependencies
 
 algo_error.py should be run only after algo_5_20_5_5.py, algo_5_40_5_5.py and algo_5_4_3_3.py
+
 smartGrid_error.py and equilibrium_deviation_grid.py should be run only after smart_6_144_12_12.py, smart_6_36_6_6.py and smart_6_96_8_8.py
 ## Acknowledgements
  
