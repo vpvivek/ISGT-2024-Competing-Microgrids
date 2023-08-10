@@ -21,6 +21,8 @@
 'equilibrium_deviation_grid.py' gives the values when baseline policies are used for deviation. Three cases can be done by setting variable 'file_number' to 1,2,3.
 
 'algo_error.py' gives the error plots for all the three cases in a single figure.
+
+'lp_solve.py' is the game solver. Keep it in the folder.
 ## Acknowledgements
  
  https://github.com/rahulsavani/zerosum_matrix_game_solver
