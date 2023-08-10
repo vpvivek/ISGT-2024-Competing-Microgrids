@@ -1,5 +1,4 @@
 
-
 # Code for smart grid set up and pure algorithm
 
 algo_5_20_5_5.py is for pure algorithm setting with No. of stages = 5, No. of states = 20, No. of actions of player1 = 5, No. of actions of player2 = 5. Similarly for other files.
