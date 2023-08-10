@@ -13,7 +13,7 @@ plt.rcParams.update({'font.size': 32})
 plt.rcParams["font.family"] = "Times New Roman"
 #plt.rcParams["font.weight"] = "bold"
 
-file_number = 223
+file_number = 1 #2,3 for other cases
 print("file_number = {}".format(file_number))
 #np.random.seed(100)
 #random.seed(100)
