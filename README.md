@@ -26,3 +26,5 @@
 ## Acknowledgements
  
  https://github.com/rahulsavani/zerosum_matrix_game_solver
+
+ https://github.com/raghudiddigi
