@@ -30,7 +30,7 @@ for i in range(len(file_numbers)):
     # np.save('horizons{}.npy'.format(file_number),horizons)
     # np.save('states{}.npy'.format(file_number), states)
     # np.save('actions{}.npy'.format(file_number), actions)
-    error = np.load('error{}.npy'.format(file_number*10+3))
+    error = np.load('error{}.npy'.format(file_number))
 
     total_avgs = 1
     avgError = np.sum(error, axis=0)/total_avgs
