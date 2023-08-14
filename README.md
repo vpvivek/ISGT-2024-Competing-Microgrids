@@ -18,7 +18,7 @@
 
 'smartGrid_error.py' gives the error plot for all the 3 three cases in a single figure.
 
-'equilibrium_deviation_grid.py' gives the values when baseline policies are used for deviation. Three cases can be done by setting variable 'file_number' to 1,2,3.
+'equilibrium_deviation_grid.py' gives the values when baseline policies are used for deviation and plots the error for 3 cases in a single figure. Three cases can be done by setting variable 'file_number' to 1,2,3.
 
 'algo_error.py' gives the error plots for all the three cases in a single figure.
 
