@@ -15,6 +15,9 @@ actions = 3
 discount = 1
 max_iterations = 100000# 100000
 
+np.save('horizons{}.npy'.format(file_number),horizons)
+np.save('states{}.npy'.format(file_number), states)
+np.save('actions{}.npy'.format(file_number), actions)
 
 def getDeterministicPolicy(index):
     pol = np.array([0]*actions)
